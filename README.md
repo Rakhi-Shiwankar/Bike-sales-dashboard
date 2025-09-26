@@ -14,4 +14,7 @@ This repository contains a screenshot of my Tableau dashboard analyzing bike sal
 
 ## 📁 Files Included
 - `BikeSalesDashboard.png`: Screenshot of the dashboard
+- `sales.csv`: Raw dataset used for analysis
+
+- You can download `sales.csv` to explore the data or recreate the dashboard in Tableau or Power BI.
 
